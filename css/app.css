@@ -2,7 +2,8 @@
 /* BASE STYLES */
 body {
   font-size: 14px;
-  background: #c69; }
+  background: #c69;
+  font-family: "Verdana", "Geneva", sans-serif; }
 
 .brand {
   background: center no-repeat;
@@ -18,7 +19,8 @@ h3 {
   color: #699;
   padding: 10px 0;
   font-size: 19.6px;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  background: #1a4775; }
 
 footer {
   text-align: center;
@@ -50,7 +52,7 @@ header {
 .box {
   background: #699;
   color: white;
-  border: solid 1px shade(#699, 20%);
+  border: solid 1px #527a7a;
   box-sizing: border-box;
   text-align: center;
   line-height: 100px;
